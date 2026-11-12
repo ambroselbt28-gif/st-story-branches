@@ -1,0 +1,12 @@
+{
+    "display_name": "剧情分支助手",
+    "loading_order": 125,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "ambroselbt28-gif",
+    "version": "0.1.0",
+    "homePage": "https://github.com/ambroselbt28-gif/st-story-branches",
+    "auto_update": true,
+    "minimum_client_version": "1.13.0"
+}
